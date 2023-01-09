@@ -6,8 +6,8 @@ permalink: /mcamc/register/
 ## MCAMC Registration
 ### I am registering as a/an...
 <div style="text-align: center">
-<span class="reg-choice" id="reg0" onclick="reg(0)"> ...individual student/parent. </span>
-<span class="reg-choice" id="reg1" onclick="reg(1)"> ...school or organization. </span>
+<span class="reg-choice" id="reg0" onclick="reg(0)"> ... individual. </span>
+<span class="reg-choice" id="reg1" onclick="reg(1)"> ... team. </span>
 </div>
 <div class="cognito">
 <script src="https://www.cognitoforms.com/s/5RmzrxaElkSFbjwAX0LpWA"></script>
@@ -22,11 +22,11 @@ function reg(type)
   document.getElementById("mcamc-registration").style.display = "none";
   if (!choiceMade) {
     if (type === 0) {
-      Cognito.load("forms", { id: "9" });
+      Cognito.load("forms", { id: "11" });
       Cognito.resize();
     }
     if (type === 1) {
-      Cognito.load("forms", { id: "10" });
+      Cognito.load("forms", { id: "12" });
       Cognito.resize();
     }
     choiceMade = true;
