@@ -1,2 +1,2 @@
 # MCA Math League Website
-## https://pranavsitaraman.github.io/mcamath/
+## https://mcamathleague.github.io/
