@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>{% if page.title %}{{ page.title }} – {% endif %}{{ site.name }}</title>
+    {% include meta.html %}
+    <script src="https://code.jquery.com/jquery-3.3.1.min.js" integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8=" crossorigin="anonymous"></script>
+    <link rel="shortcut icon" type="image/x-icon" href="{{ site.baseurl }}/favicon.ico">
+    <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/style.css" />
+    <link rel="alternate" type="application/rss+xml" title="{{ site.name }} - {{ site.description }}" href="{{ site.baseurl }}/feed.xml" />
+    {{ page.meta }}
+    {{ layout.meta }}
+  </head>
+  <body>
+    <div class="wrapper-masthead">
+      <div class="container">
+        <header class="masthead clearfix">
+          <a href="{{ site.baseurl }}/" class="site-avatar"><img src="{{ site.baseurl }}/{{ site.avatar }}" style="vertical-align: middle;"/></a>
+          <div class="site-info">
+            <h1 class="site-name"><a href="{{ site.baseurl }}/">{{ site.name }}</a></h1>
+          </div>
+          <nav>
+            <a href="{{ site.baseurl }}/">Home</a>
+            <a href="{{ site.baseurl }}/mcamc">MCAMC</a>
+            <a href="{{ site.baseurl }}/mcamc/register/">Register</a>
+            <a href="{{ site.baseurl }}/mcamc/archive/">Archive</a>
+            <a href="{{ site.baseurl }}/mcamc/live/">Live</a>
+            <a href="{{ site.baseurl }}/calendar/">Calendar</a>
+          </nav>
+        </header>
+      </div>
+    </div>
+    <div id="main" role="main" class="container">
+      {{ content }}
+    </div>
+    <div class="wrapper-footer">
+      <div class="container">
+        <footer class="footer">
+          <div class="footer-column">
+            <h3>Contact Us</h3>
+            <p>Email: <a href="mailto:mcamathleague@gmail.com">mcamathleague@gmail.com</a>&emsp;&emsp;100 Technology Drive&emsp;&emsp;Edison, NJ 08837</p>
+          </div>
+        </footer>
+      </div>
+    </div>
+    <link rel="stylesheet" type="text/css" href="//code.ionicframework.com/ionicons/2.0.1/css/ionicons.min.css" />
+    <div class="copyright">
+      <div class="container">
+        <br>
+        Made with <i style="color: #e53935;" class="icon ion-heart"></i> by Middlesex County Academy Math League. &copy; Copyright 2022.
+        <br><br>
+      </div>
+    </div>
+  </body>
+</html>

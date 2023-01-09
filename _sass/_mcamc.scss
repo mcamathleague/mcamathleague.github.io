@@ -1,0 +1,93 @@
+.mcamc-table > table {
+	margin: auto;
+	
+	td:first-child {
+		text-align: right;
+		padding: 4px 6px;
+		font-weight: bold;
+	}
+
+	td:last-child {
+		text-align: left;
+		padding: 4px 6px;
+	}
+
+	tr:nth-child(odd) {
+		background-color: #eceff1;
+	}
+}
+
+.sponsor-table {
+	margin: auto;
+	display: flex;
+	flex-direction: column;
+}
+
+.sponsor-row {
+	display: flex;
+	flex-wrap: wrap;
+	align-items: center;
+	justify-content: center;
+
+	div {
+		margin: 10px;
+	}
+}
+
+.sponsor-row img {
+	max-width: 240px;
+	height: auto;
+}
+
+.q-icon {
+	vertical-align: -5px;
+}
+
+.question {
+	background-color: #eceff1;
+	padding: 4px 0px 4px 24px;
+	text-indent: -12px;
+}
+
+.question:hover {
+	background-color: #cfd8dc;
+	cursor: pointer;
+}
+
+.btn-grey {
+	font-size: 18px;
+	background-color: #eceff1;
+	color:#333333;
+	border: 0;
+	margin: 0 8px;
+	padding: 6px 10px;
+	font-family: inherit;
+	cursor: pointer;
+	white-space: nowrap;
+}
+
+.btn-grey:hover {
+	background-color: #cfd8dc;
+	cursor: pointer;
+	color:#333333;
+}
+
+.cwrapper {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+}
+
+
+.banner-btn-flair {
+	font-size: 18px;
+	background-color: #f8ba05;
+	color: white;
+	border: 0;
+	margin: 0 8px;
+	padding: 6px 10px;
+	font-family: inherit;
+	cursor: pointer;
+	white-space: nowrap;
+	line-height: 2.25;
+}

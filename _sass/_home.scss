@@ -1,0 +1,96 @@
+@import "variables";
+
+.banner {
+	position: relative;
+	text-align: center;
+}
+
+.main-banner {
+	background-color: black;
+	color: white;
+}
+
+.sub-banner {
+	background-color: #DDD;
+	margin-top: 12px;
+}
+
+.main-banner-title a {
+  	@include mobile {
+    	margin-top: 5px;
+  	}
+  	color: white;
+}
+
+.main-banner-title a:hover {
+	color: white;
+}
+
+.sub-banner-title a:hover {
+	color: black;
+}
+
+.banner-cont {
+	padding: 10px;
+}
+
+.main-banner-img {
+	display: block;
+	max-width: 100%;
+	margin: auto;
+	padding-top: 24px;
+	@include mobile {
+		padding-top: 0px;
+	}
+}
+
+.banner-btn-cont {
+	margin-top: 22px;
+	padding-bottom: 22px;
+}
+
+.banner-btn {
+	font-size: 18px;
+	background-color: #1e88e5;
+	color: white;
+	border: 0;
+	margin: 0 8px;
+	padding: 6px 10px;
+	font-family: inherit;
+	cursor: pointer;
+	white-space: nowrap;
+	line-height: 2.25;
+}
+
+.banner-btn:hover {
+	background-color: #1565c0;
+	color: white;
+}
+
+.btn-disabled {
+	background-color: #666;
+	cursor: auto;
+}
+
+.btn-disabled:hover {
+	background-color: #666;
+	color: white;
+}
+
+.main-banner-text {
+	font-size: 22px;
+}
+
+
+.banner-btn-flair {
+	font-size: 18px;
+	background-color: #f8ba05;
+	color: white;
+	border: 0;
+	margin: 0 8px;
+	padding: 6px 10px;
+	font-family: inherit;
+	cursor: pointer;
+	white-space: nowrap;
+	line-height: 2.25;
+}
