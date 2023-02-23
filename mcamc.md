@@ -95,7 +95,7 @@ MCAMC brings an exciting new type of math competition to the middle school audie
 
 ## Format and Rules
 
-Form teams of 4-6 students from your school in grades 6-8 and compete together! MCAMC is structured into 4 rounds, each round lasting 1 hour.
+Form teams of 2-4 students from your school in grades 6-8 and compete together! MCAMC is structured into 4 rounds, each round lasting 1 hour.
 
 ### Individual Round
 
