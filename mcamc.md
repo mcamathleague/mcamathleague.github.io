@@ -103,7 +103,7 @@ The Individual Round comes first and is the most traditional of the 3 rounds. Th
 
 ### Team Round
 
-The Team Round comes second, and you will be working within your team of 4-6 students to solve another 20 questions, but now with a twist! This time, all 20 questions will be related to one topic — a topic that you've probably never seen before. We will provide enough background information and guidance to help you solve these 20 questions, so be prepared to learn something new.
+The Team Round comes second, and you will be working within your team of 2-4 students to solve another 20 questions, but now with a twist! This time, all 20 questions will be related to one topic — a topic that you've probably never seen before. We will provide enough background information and guidance to help you solve these 20 questions, so be prepared to learn something new.
 
 ### Live Round
 
