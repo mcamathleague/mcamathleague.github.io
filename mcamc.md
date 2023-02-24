@@ -99,7 +99,7 @@ Form teams of 2-4 students from your school in grades 6-8 and compete together! 
 
 ### Individual Round
 
-The Individual Round comes first and is the most traditional of the 3 rounds. There are 30 questions spanning various topics. The questions will be similar in difficulty to the AMC 8.
+The Individual Round comes first and is the most traditional of the 3 rounds and comes first. There are 30 questions spanning various topics. The questions will be similar in difficulty to the AMC 8.
 
 ### Team Round
 
@@ -107,13 +107,13 @@ The Team Round comes second, and you will be working within your team of 2-4 stu
 
 ### Live Round
 
-The Live Round is the last round, and you will again be working within your team. The style of the questions will be similar to that of the Individual Round, with a slight difficulty increase because you will be working as a team. Questions will come in sets of 3, and there are 10 sets of questions. The difficulty increases every set.
+The Live Round is the third round, and you will again be working within your team. The style of the questions will be similar to that of the Individual Round, with a slight difficulty increase because you will be working as a team. Questions will come in sets of 3, and there are 10 sets of questions. The difficulty increases every set.
 
 It is called the Live Round because this round will be scored in real-time! Teams will recieve one set of 3 at a time and when the team is done with a set, they will submit their answers and receive the next set of questions. Answers may not be changed after they are submitted, and answers will be graded on the spot, with the results immediately displayed online.
 
 ### Countdown Round
 
-The Countdown Round is the third round, and in this round, the top 10 students from the individual round will be participating in a MATHCOUNTS-style ladder competition, in which the 10th place student is against the 9th place student to solve three questions the fastest they can, and the winner of this match faces the 8th place student. This continues until there is a final winner!
+The Countdown Round is the final round. In this round, the top 10 students from the individual round will be participating in a MATHCOUNTS-style ladder competition. The 10th place student will compete against the 9th place student to be the first to solve 3 questions correctly. The winner of this match will face the 8th place student, and so on until there is a final winner!
 
 ### Scoring
 
