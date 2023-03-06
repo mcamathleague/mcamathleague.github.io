@@ -67,32 +67,60 @@ MCAMC brings an exciting new type of math competition to the middle school audie
 <div class="mcamc-table">
 <table>
   <tr>
-    <td>9:00 - 9:30</td>
-    <td>Check In & Team Matching</td>
+    <td>8:30 AM - 9:00 AM</td>
+    <td>Check-In & T-Shirt Distribution</td>
   </tr>
   <tr>
-    <td>9:30 - 10:30</td>
+    <td>9:00 AM - 9:30 AM</td>
+    <td>Team Formation & Room Assignments</td>
+  </tr>
+  <tr>
+    <td>9:30 AM - 10:00 AM</td>
+    <td>Opening Ceremony</td>
+  </tr>
+  <tr>
+    <td>10:00 AM - 11:00 AM</td>
     <td>Individual Round</td>
   </tr>
   <tr>
-    <td>10:45 - 11:45</td>
+    <td>11:00 AM - 11:30 AM</td>
+    <td>Break & Transition</td>
+  </tr>
+  <tr>
+    <td>11:30 AM - 12:30 PM</td>
     <td>Team Round</td>
   </tr>
   <tr>
-    <td>12:00 - 12:45</td>
-    <td>Lunch Break</td>
+    <td>12:30 PM - 1:00 PM</td>
+    <td>Break & Transition</td>
   </tr>
   <tr>
-    <td>1:00 - 2:00</td>
+    <td>1:00 PM - 1:30 PM </td>
+    <td>Lunch</td>
+  </tr>
+  <tr>
+    <td>1:30 PM - 2:00 PM</td>
+    <td>Move from Edison Academy to College Center</td>
+  </tr>
+  <tr>
+    <td>2:00 PM - 3:00 PM</td>
     <td>Live Round</td>
   </tr>
   <tr>
-    <td>2:15 - 3:15</td>
+    <td>3:00 PM - 3:30 PM</td>
+    <td>Break & Transition</td>
+  </tr>
+  <tr>
+    <td>3:30 PM - 4:30 PM</td>
     <td>Countdown Round</td>
   </tr>
   <tr>
-    <td>3:30 - 4:00</td>
-    <td>Awards Ceremony</td>
+    <td>4:30 PM - 5:00 PM</td>
+    <td>Break & Transition</td>
+  </tr>
+  <tr>
+    <td>5:00 PM - 5:30 PM</td>
+    <td>Closing Ceremony</td>
   </tr>
 </table>
 </div>
