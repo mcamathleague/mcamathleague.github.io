@@ -41,11 +41,15 @@ MCAMC brings an exciting new type of math competition to the middle school audie
   </tr>
   <tr>
     <td>Registration Closes</td>
-    <td>March 4th, 2023</td>
+    <td>March 11th, 2023</td>
   </tr>
   <tr>
     <td>Payment Received By</td>
-    <td>March 11th, 2023</td>
+    <td>March 13th, 2023</td>
+  </tr>
+  <tr>
+    <td>Registration Confirmed By</td>
+    <td>March 15th, 2023</td>
   </tr>
   <tr>
     <td>Competition Date</td>
