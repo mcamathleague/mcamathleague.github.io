@@ -229,8 +229,16 @@ Please contact [mcamathleague@gmail.com](mailto:mcamathleague@gmail.com) with yo
     <div><strong>Wolfram</strong><br><a href="https://www.wolfram.com">https://www.wolfram.com</a></div>
   </div>
   <div class="sponsor-row">
+    <div><a href="https://njstempathways.org/njstemmonth/"><img src="{{ site.baseurl }}/images/njstem.png"></a></div>
+    <div><strong>NJ Stem Pathways</strong><br><a href="https://njstempathways.org/njstemmonth/">https://njstempathways.org/njstemmonth/</a></div>
+  </div>
+  <div class="sponsor-row">
     <div><a href="https://artofproblemsolving.com/"><img src="{{ site.baseurl }}/images/aops.png"></a></div>
     <div><strong>Art of Problem Solving</strong><br><a href="https://artofproblemsolving.com/">https://artofproblemsolving.com/</a></div>
+  </div>
+  <div class="sponsor-row">
+    <div><a href="https://www.janestreet.com/"><img src="{{ site.baseurl }}/images/janestreet.png"></a></div>
+    <div><strong>Jane Street</strong><br><a href="https://www.janestreet.com/">https://www.janestreet.com/</a></div>
   </div>
 </div>
 <script type="text/javascript">
