@@ -225,16 +225,12 @@ Please contact [mcamathleague@gmail.com](mailto:mcamathleague@gmail.com) with yo
 
 <div class="sponsor-table">
   <div class="sponsor-row">
-    <div><a href="https://www.youcandothecube.com"><img src="{{ site.baseurl }}/images/rubiks.svg"></a></div>
-    <div><strong>You Can Do The Rubik's Cube</strong><br><a href="https://www.youcandothecube.com">https://www.youcandothecube.com</a></div>
+    <div><a href="https://www.wolfram.com/"><img src="{{ site.baseurl }}/images/wolfram-2.png"></a></div>
+    <div><strong>Wolfram</strong><br><a href="https://www.wolfram.com">https://www.wolfram.com</a></div>
   </div>
   <div class="sponsor-row">
     <div><a href="https://artofproblemsolving.com/"><img src="{{ site.baseurl }}/images/aops.png"></a></div>
     <div><strong>Art of Problem Solving</strong><br><a href="https://artofproblemsolving.com/">https://artofproblemsolving.com/</a></div>
-  </div>
-  <div class="sponsor-row">
-    <div><a href="https://www.wolfram.com/"><img src="{{ site.baseurl }}/images/wolfram-2.png"></a></div>
-    <div><strong>Wolfram</strong><br><a href="https://www.wolfram.com">https://www.wolfram.com</a></div>
   </div>
 </div>
 <script type="text/javascript">
