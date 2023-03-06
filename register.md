@@ -4,7 +4,6 @@ title: MCAMC Registration
 permalink: /mcamc/register/
 ---
 ## MCAMC Registration
-<h4 align="center"> **Please note that registration confirmation and payment information will be sent out after the registration window ends. Please do not pay until you receive this information!** </h4>
 ### I am registering as a/an...
 <div style="text-align: center">
 <span class="reg-choice" id="reg0" onclick="reg(0)"> ... individual. </span>
