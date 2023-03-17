@@ -4,6 +4,8 @@ title: MCAMC Registration
 permalink: /mcamc/register/
 ---
 ## MCAMC Registration
+### Registration is now closed
+<!---
 ### I am registering as a/an...
 <div style="text-align: center">
 <span class="reg-choice" id="reg0" onclick="reg(0)"> ... individual. </span>
@@ -33,3 +35,4 @@ function reg(type)
   }
 }
 </script>
+-->
