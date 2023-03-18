@@ -147,7 +147,7 @@ meta: |
       html+="<td>"+scores[i][0]+"</td>";
       html+="<td>"+scores[i][1]+""+"</td>";
       html+="<td style=\"text-align:right\">"+scores[i][2]+"</td>";
-      html+="<td>"+scores[i][3]+"/8"+"</td>";
+      html+="<td>"+scores[i][3]+"/10"+"</td>";
       html+="</tr>";
     }
     html+="</tbody></table>";
@@ -169,7 +169,7 @@ meta: |
       html3+="<td style=\"border-left: solid 1px black\">"+scores[i][0]+"</td>";
       html3+="<td>"+scores[i][1]+""+"</td>";
       html3+="<td style=\"text-align:right\">"+scores[i][2]+"</td>";
-      html3+="<td>"+scores[i][3]+"/8"+"</td>";
+      html3+="<td>"+scores[i][3]+"/10"+"</td>";
       html3+="</tr>";
     }
     html3+="</tbody></table>";
