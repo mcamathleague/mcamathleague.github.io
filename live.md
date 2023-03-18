@@ -158,7 +158,7 @@ meta: |
       html2+="<td style=\"border-left: solid 1px black\">"+scores[i][0]+"</td>";
       html2+="<td>"+scores[i][1]+""+"</td>";
       html2+="<td style=\"text-align:right\">"+scores[i][2]+"</td>";
-      html2+="<td>"+scores[i][3]+"/8"+"</td>";
+      html2+="<td>"+scores[i][3]+"/10"+"</td>";
       html2+="</tr>";
     }
     html2+="</tbody></table>";
