@@ -11,8 +11,6 @@ permalink: /mcamc/archive/
 
 [Live Round](/pdf/2023/Live_2023.pdf)
 
-<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTC4_dFS5ljZzB7SUJ8FbMxU97orZiwLGH8xdMaM4Co4VjRTE24UePxmIkSs6oYJdj4RsLde5hDJtyG/pubhtml?widget=true&amp;headers=false" width="100%" height="450"></iframe>
-
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vR1HoAw--ud0OoVqSni3JPi1T3Jnf_lpx-UT9Bet__ws92L_jSdwSlGsHIfSXJZ80zPP9MDZwDskNaS/embed?start=false&loop=false&delayms=60000" frameborder="0" width="100%" height="450" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 ## MCAMC 2022
