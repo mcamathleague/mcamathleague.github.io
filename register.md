@@ -4,7 +4,7 @@ title: MCAMC Registration
 permalink: /mcamc/register/
 ---
 ## MCAMC Registration
-### Registration is now closed
+### Registration is opening soon!
 <!---
 ### I am registering as a/an...
 <div style="text-align: center">
