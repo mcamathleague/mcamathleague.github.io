@@ -37,19 +37,19 @@ MCAMC brings an exciting new type of math competition to the middle school audie
 <table>
   <tr>
     <td>Registration Opens</td>
-    <td>TBD, 2024</td>
+    <td>February 12th, 2024</td>
   </tr>
   <tr>
     <td>Registration Closes</td>
-    <td>TBD, 2024</td>
+    <td>March 31st, 2024</td>
   </tr>
   <tr>
     <td>Payment Received By</td>
-    <td>TBD, 2024</td>
+    <td>March 31st, 2024</td>
   </tr>
   <tr>
     <td>Registration Confirmed By</td>
-    <td>TBD, 2024</td>
+    <td>April 6th, 2024</td>
   </tr>
   <tr>
     <td>Competition Date</td>
