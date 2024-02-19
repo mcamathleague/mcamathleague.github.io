@@ -7,7 +7,7 @@ layout: default
 	<div class="main-banner-overlay">
 		<h1 class="main-banner-title"><a href="{{ site.baseurl }}/mcamc">Middlesex County Academy Math Competition</a></h1>
 		<p class="main-banner-text">Saturday, April 13th, 2024</p>
-		<p class="main-banner-text">a team-based competition open to all students in grades 6-8</p>
+		<p class="main-banner-text">a multiple-round, individual and team-based event open to all middle-school students</p>
 		<div class="banner-btn-cont">
 			<a href="{{ site.baseurl }}/mcamc" class="banner-btn">Learn More</a>
 			<a href="{{ site.baseurl }}/mcamc/register" class="banner-btn-flair">Register Now!</a>
@@ -26,7 +26,7 @@ layout: default
 </div>
 ## About Us
 {: .center}
-We are high school students who want to have fun with mathematics! The MCA Math League is one of the largest clubs at the [Middlesex County Academy](https://www.mcmsnj.net/edison), an engineering-focused career academy in Edison, NJ. We hold events for students of our high school, as well as events open to the public. Please join us in our quest to show you just how fun mathematics can be—we hope to see you soon!
+We are high school students who want to have fun with mathematics! The MCA Math League is one of the largest clubs at the [Middlesex County Academy](https://www.mcmsnj.net/edison), an engineering-focused career academy in Edison, NJ. We hold events for students of our high school, as well as events open to the public. Please join us in our quest to show you just how fun mathematics can be — we hope to see you soon!
 ## Location
 <div class="mapouter">
   <div class="gmap_canvas">

@@ -5,6 +5,8 @@ permalink: /mcamc/register/
 ---
 ## MCAMC Registration
 
+#### Registration costs $30 per individual and $90 per team of 3-4 students (regardless of team size).
+
 ### I am registering as a/an...
 <div style="text-align: center">
 <span class="reg-choice" id="reg0" onclick="reg(0)"> ... individual. </span>

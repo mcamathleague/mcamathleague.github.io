@@ -29,7 +29,7 @@ meta: |
 
 ## What is MCAMC?
 
-MCAMC brings an exciting new type of math competition to the middle school audience — one that involves working together as a team with your friends. In contrast to other competitions that only involve working independently, get ready for a day filled with collaboration and action! This year, we are happy to announce that MCAMC will be held in-person, at the Middlesex County Academy!
+MCAMC brings an exciting new type of math competition to the middle school audience — one that involves working together as a team with your friends. Get ready for a day filled with collaboration and action! This year, we are happy to announce that MCAMC will be held in-person, at the Middlesex County Academy!
 
 ## Important Dates
 
@@ -127,7 +127,7 @@ MCAMC brings an exciting new type of math competition to the middle school audie
 
 ## Format and Rules
 
-Form teams of 2-4 students from your school in grades 6-8 and compete together! MCAMC is structured into 4 rounds, each round lasting 1 hour.
+Form teams of 3-4 middle-school students and compete together! MCAMC is structured into 4 rounds, each round lasting 1 hour.
 
 ### Individual Round
 
@@ -135,27 +135,25 @@ The Individual Round comes first and is the most traditional of the 3 rounds and
 
 ### Team Round
 
-The Team Round comes second, and you will be working within your team of 2-4 students to solve another 30 questions, but now with a twist! This time, all 30 questions will be related to one topic — a topic that you've probably never seen before. We will provide enough background information and guidance to help you solve these questions, so be prepared to learn something new.
+The Team Round comes second. You will be working within your team of 3-4 students to solve another 30 questions, but there's twist! This time, all 30 questions will be related to one topic in mathematics — a topic that you've probably never seen before. We will provide enough background information and guidance to help you solve these questions, so be prepared to learn something new!
 
 ### Live Round
 
-The Live Round is the third round, and you will again be working within your team. The style of the questions will be similar to that of the Individual Round, with a slight difficulty increase because you will be working as a team. Questions will come in sets of 3, and there are 10 sets of questions. The difficulty increases every set.
+The Live Round is the third round, and you will again be working within your team. The style of the questions will be similar to that of the Individual Round, with a slight difficulty increase because you will be working as a team. Questions will come in sets of 3, and there are 10 sets of questions. The difficulty increases with every set.
 
-It is called the Live Round because this round will be scored in real-time! Teams will recieve one set of 3 at a time and when the team is done with a set, they will submit their answers and receive the next set of questions. Answers may not be changed after they are submitted, and answers will be graded on the spot, with the results immediately displayed online.
+This round will be scored in real-time! Teams will receive one set of questions at a time, and when the team is done with a set, they will submit their answers and receive the next set of questions. Answers may not be changed once they are submitted and will be graded on the spot, with the results immediately displayed on an online scoreboard.
 
 ### Countdown Round
 
-The Countdown Round is the final round. In this round, the top 10 students from the individual round will be participating in a MATHCOUNTS-style ladder competition. The 10th place student will compete against the 9th place student to be the first to solve 3 questions correctly. The winner of this match will face the 8th place student, and so on until there is a final winner!
+The Countdown Round is the final round. In this round, the top 10 students from the individual round will be participating in a MATHCOUNTS-style ladder competition. The 10th place student will compete against the 9th place student to be the first to solve 3 questions correctly. The winner of this match will face the 8th place student, and so on and so forth until there is a final winner!
 
 ### Scoring
 
-We designed our scoring system to give more points to harder questions, as well as to prevent ties. Each person's individual score comes from the Individual Round, while the team overall score depends on the average of Individual Round scores, the Team Round score, and the Live Round score, with each component equally important.
-
-After the individual scores are determined, the top 10 participants compete in the Countdown Round to determine their final position in the standings!
+We've designed our scoring system to give more points to harder questions, as well as to prevent ties. The individual standings are determined solely with the Individual and Countdown Rounds, while team standings are calculated from a score that depends equally on the Individual Round scores of team members, your Team Round score, and your Live Round score.
 
 ### Awards
 
-Awards will be given to the top 3 individuals as ranked by the Countdown Round, as well as to the top 3 teams. We'll be announcing what these prizes are soon, so keep an eye out!
+Various awards will be given to the top 10 individuals from the Individual Round, the top 3 individuals (and the individual winner) from the Countdown Round, and the top 3 teams!
 
 ## Sample Questions
 
@@ -184,28 +182,28 @@ Awards will be given to the top 3 individuals as ranked by the Countdown Round, 
 ### Registration
 
 {: .question}
-**Can you describe the overall registration process for team?**
+**Can you describe the overall registration process for our team?**
 
 {: .answer}
-Each team submits one registration form. The team will be asked to designate a coach or parent who will receive communications from MCAMC and make payments. If you have any other questions, please contact us at [mcamathleague@gmail.com](mailto:mcamathleague@gmail.com).
+A new registration form must be submitted for each team of 3-4 students. The team will be asked to designate a coach or parent who will receive communications from MCAMC and make payments. If you have any other questions, please contact us at [mcamathleague@gmail.com](mailto:mcamathleague@gmail.com).
 
 {: .question}
 **Can I register as individual without a team?**
 
 {: .answer}
-Yes! If you do not have a team, you can register as individual. On the day of the competition, you will be matched with a team, and you will be able to participate in all rounds just like everyone else. However, we recommend that students register as a team if possible.
+Yes! If you do not have a team, you can register as an individual. On the day of the competition, you will be randomly placed with a team of other individual students, and you will be able to participate in all rounds just like everyone else. However, students must register as a team if they already have a group of 3-4 students they would like to work with.
 
 {: .question}
-**What are the exact eligibility requirements to participate in MCAMC?**
+**What are the eligibility requirements to participate in MCAMC?**
 
 {: .answer}
-Students must be in grade 8 or below. Grade 9 students *may not* participate, even if your middle school contains grade 9. Younger students *may* participate, but the difficulty of the competition stays the same. Additionally, homeschooled students *may* participate. There are no location requirements.
+All students must be in middle school. Homeschooled students *may* participate. There are no location or age requirements.
 
 {: .question}
 **Can organizations other than schools form teams?**
 
 {: .answer}
-Yes! Any team from anywhere may participate, including but not limited to enrichment programs and weekend programs.
+Yes! Any team from anywhere may participate, including but not limited to enrichment and weekend programs.
 
 ### Day of the Competition
 
@@ -213,13 +211,13 @@ Yes! Any team from anywhere may participate, including but not limited to enrich
 **What should I have with me?**
 
 {: .answer}
-You will need scrap paper and a writing utensil. A calculator is allowed but all questions can be solved without the use of a calculator. No other aids are permitted. The time will be regularly announced by your proctor, but if you wish, a (non-smart) watch is also permitted.
+You will need a writing utensil. Scrap paper will be provided, and the competition time will be displayed by proctors. Calculators, smart watches, or any other aids are prohibited.
 
 {: .question}
 **How will the competition operate?**  
 
 {: .answer}
-Competitors will take the competition at the Middlesex County Academy, and each round will be proctored by our volunteers to ensure that there is no cheating.
+Competitors will take the competition simultaneously at the Middlesex County Academy. Each round will be proctored by high school and adult volunteers to ensure that there is no cheating.
 
 ### Payment
 
@@ -227,13 +225,13 @@ Competitors will take the competition at the Middlesex County Academy, and each 
 **What does the overall payment process look like?**  
 
 {: .answer}
-The total amount owed will be displayed before the registration form is submitted. Information about payment will be posted on the form and emailed to registered teams within the following week. If you have any questions, please contact us at [mcamathleague@gmail.com](mailto:mcamathleague@gmail.com).
+The total amount owed will be displayed before the registration form is submitted. Payment must be made through the provided MySchoolBucks link and is required for registration to be considered complete. If you have any questions, please contact us at [mcamathleague@gmail.com](mailto:mcamathleague@gmail.com).
 
 {: .question}
 **How much does MCAMC cost?**
 
 {: .answer}
-MCAMC costs $10 per student. Payment must be *received* by the indicated deadline. More information on payments will be posted shortly.
+MCAMC costs $30 per individual and $90 per team of 3-4 students (regardless of team size).
 
 ### Miscellaneous
 
@@ -241,13 +239,13 @@ MCAMC costs $10 per student. Payment must be *received* by the indicated deadlin
 **Does a high score on the MCAMC impact admission to Middlesex County Academy?**
 
 {: .answer}
-Our competition is not affiliated with the admissions process of our school. However, our admissions team is well aware of the rigor and importance of math competitions in general, including but not limited to the MCAMC. We encourage those who enjoy math competions to apply!
+Our competition is not affiliated with the admissions process of our school. However, our admissions team is well aware of the rigor and importance of math competitions in general, including but not limited to the MCAMC. We encourage all those who enjoy math competions to apply!
 
 {: .question}
 **I have a question not listed here.**  
 
 {: .answer}
-Please contact [mcamathleague@gmail.com](mailto:mcamathleague@gmail.com) with your question. We will be happy to answer!
+Please contact [mcamathleague@gmail.com](mailto:mcamathleague@gmail.com) with your question!
 
 ## Sponsors
 
