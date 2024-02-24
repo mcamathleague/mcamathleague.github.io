@@ -5,7 +5,7 @@ permalink: /mcamc/register/
 ---
 ## MCAMC Registration
 
-#### Registration costs $30 per individual and $90 per team of 3-4 students (regardless of team size). While recieving money from team members/students for payment keep in mind MySchoolBucks(payment platform) has a 5% service charge on the amount being paid.
+#### Registration costs $30 per individual and $90 per team of 3-4 students (regardless of team size), with a 5% service charge added by the MySchoolBucks payment platform.
 
 ### I am registering as a/an...
 <div style="text-align: center">
