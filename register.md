@@ -7,6 +7,8 @@ permalink: /mcamc/register/
 
 #### Registration costs $30 per individual and $90 per team of 3-4 students (regardless of team size), with a 5% service charge added by the MySchoolBucks payment platform.
 
+<h4><b>Please note that registration will be capped at 250 participants and is first-come, first-serve. Payment must be received for registration to be considered complete.</b></h4>
+
 ### I am registering as a/an...
 <div style="text-align: center">
 <span class="reg-choice" id="reg0" onclick="reg(0)"> ... individual. </span>
