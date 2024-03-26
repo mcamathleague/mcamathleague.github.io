@@ -37,26 +37,22 @@ MCAMC brings an exciting new type of math competition to the middle school audie
 <table>
   <tr>
     <td>Registration Opens</td>
-    <td>February 12th, 2024</td>
+    <td>January 2nd, 2024</td>
   </tr>
   <tr>
     <td>Registration Closes</td>
-    <td>March 31st, 2024</td>
+    <td>April 7th, 2024</td>
   </tr>
   <tr>
-    <td>Payment Received By</td>
-    <td>March 31st, 2024</td>
-  </tr>
-  <tr>
-    <td>Registration Confirmed By</td>
-    <td>April 6th, 2024</td>
+    <td>Payment Due</td>
+    <td>April 9th, 2024</td>
   </tr>
   <tr>
     <td>Competition Date</td>
     <td>April 13th, 2024</td>
   </tr>
   <tr>
-    <td>Full Results Uploaded</td>
+    <td>Results Posted</td>
     <td>April 20th, 2024</td>
   </tr>
 </table>
