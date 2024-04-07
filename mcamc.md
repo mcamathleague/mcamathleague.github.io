@@ -40,11 +40,7 @@ MCAMC brings an exciting new type of math competition to the middle school audie
     <td>January 2nd, 2024</td>
   </tr>
   <tr>
-    <td>Registration Closes</td>
-    <td>April 7th, 2024</td>
-  </tr>
-  <tr>
-    <td>Payment Due</td>
+    <td>Registration & Payment Due</td>
     <td>April 9th, 2024</td>
   </tr>
   <tr>
@@ -63,59 +59,47 @@ MCAMC brings an exciting new type of math competition to the middle school audie
 <div class="mcamc-table">
 <table>
   <tr>
-    <td>8:30 AM - 9:00 AM</td>
-    <td>Check-In & T-Shirt Distribution</td>
+    <td>8:45 AM - 9:15 AM</td>
+    <td>Check-In</td>
   </tr>
   <tr>
-    <td>9:00 AM - 9:30 AM</td>
-    <td>Team Formation & Room Assignments</td>
-  </tr>
-  <tr>
-    <td>9:30 AM - 10:00 AM</td>
+    <td>9:15 AM - 9:45 AM</td>
     <td>Opening Ceremony</td>
+  </tr>
+  <tr>
+    <td>9:45 AM - 10:00 AM</td>
+    <td>Transition to Testing Rooms</td>
   </tr>
   <tr>
     <td>10:00 AM - 11:00 AM</td>
     <td>Individual Round</td>
   </tr>
   <tr>
-    <td>11:00 AM - 11:30 AM</td>
-    <td>Break & Transition</td>
+    <td>11:00 AM - 11:15 AM</td>
+    <td>Break</td>
   </tr>
   <tr>
-    <td>11:30 AM - 12:30 PM</td>
+    <td>11:15 AM - 12:15 PM</td>
     <td>Team Round</td>
   </tr>
   <tr>
-    <td>12:30 PM - 1:00 PM</td>
-    <td>Break & Transition</td>
-  </tr>
-  <tr>
-    <td>1:00 PM - 1:30 PM </td>
+    <td>12:15 PM - 12:45 PM</td>
     <td>Lunch</td>
   </tr>
   <tr>
-    <td>1:30 PM - 2:00 PM</td>
-    <td>Move from Edison Academy to College Center</td>
+    <td>12:45 PM - 1:00 PM </td>
+    <td>Transition to Cafeteria</td>
   </tr>
   <tr>
-    <td>2:00 PM - 3:00 PM</td>
+    <td>1:00 PM - 2:00 PM</td>
     <td>Live Round</td>
   </tr>
   <tr>
-    <td>3:00 PM - 3:30 PM</td>
-    <td>Break & Transition</td>
-  </tr>
-  <tr>
-    <td>3:30 PM - 4:30 PM</td>
+    <td>2:00 PM - 3:00 PM</td>
     <td>Countdown Round</td>
   </tr>
   <tr>
-    <td>4:30 PM - 5:00 PM</td>
-    <td>Break & Transition</td>
-  </tr>
-  <tr>
-    <td>5:00 PM - 5:30 PM</td>
+    <td>3:00 PM - 3:30 PM</td>
     <td>Closing Ceremony</td>
   </tr>
 </table>
