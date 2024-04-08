@@ -231,15 +231,15 @@ Please contact [mcamathleague@gmail.com](mailto:mcamathleague@gmail.com) with yo
 
 <div class="sponsor-table">
   <div class="sponsor-row">
-    <div><a href="https://www.janestreet.com/"><img src="{{ site.baseurl }}/images/janestreet.png" width="10vw"></a></div>
+    <div><a href="https://www.janestreet.com/"><img src="{{ site.baseurl }}/images/janestreet.png" width="500"></a></div>
     <div><strong>Jane Street</strong><br><a href="https://www.janestreet.com/">https://www.janestreet.com/</a></div>
   </div>
   <div class="sponsor-row">
-    <div><a href="https://artofproblemsolving.com/"><img src="{{ site.baseurl }}/images/aops.png" width="10vw"></a></div>
+    <div><a href="https://artofproblemsolving.com/"><img src="{{ site.baseurl }}/images/aops.png" width="500"></a></div>
     <div><strong>Art of Problem Solving</strong><br><a href="https://artofproblemsolving.com/">https://artofproblemsolving.com/</a></div>
   </div>
   <div class="sponsor-row">
-    <div><a href="https://www.wolfram.com/"><img src="{{ site.baseurl }}/images/wolfram-2.png" width="10vw"></a></div>
+    <div><a href="https://www.wolfram.com/"><img src="{{ site.baseurl }}/images/wolfram-2.png" width="500"></a></div>
     <div><strong>Wolfram</strong><br><a href="https://www.wolfram.com">https://www.wolfram.com</a></div>
   </div>
 </div>
