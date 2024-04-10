@@ -128,7 +128,6 @@ meta: |
       if (range.values.length > 0) {
         for (i = 0; i < range.values.length; i++) {
           var row = range.values[i];
-          // Print columns A and E, which correspond to indices 0 and 4.
           rowData = analyzeRow(row);
           scores[i] = [];
           scores[i][0] = rowData.teamNumber;
@@ -147,7 +146,7 @@ meta: |
       html+="<td>"+scores[i][0]+"</td>";
       html+="<td>"+scores[i][1]+""+"</td>";
       html+="<td style=\"text-align:right\">"+scores[i][2]+"</td>";
-      html+="<td>"+scores[i][3]+"/10"+"</td>";
+      html+="<td>"+scores[i][3]+"/8"+"</td>";
       html+="</tr>";
     }
     html+="</tbody></table>";
