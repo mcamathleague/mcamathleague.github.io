@@ -9,7 +9,9 @@ permalink: /mcamc/register/
 
 <h4><b>Please note that registration will be capped at 250 participants and is first-come, first-serve. Payment must be received for registration to be considered complete.</b></h4>
 
-### I am registering as a/an...
+### Registration is now closed! We will be reaching out to all participants by email shortly.
+
+<!-- ### I am registering as a/an...
 <div style="text-align: center">
 <span class="reg-choice" id="reg0" onclick="reg(0)"> ... individual. </span>
 <span class="reg-choice" id="reg1" onclick="reg(1)"> ... team of 3 or 4 students. </span>
@@ -37,4 +39,4 @@ function reg(type)
     choiceMade = true;
   }
 }
-</script>
+</script> -->
