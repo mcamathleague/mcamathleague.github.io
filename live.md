@@ -121,7 +121,7 @@ meta: |
   {
     gapi.client.sheets.spreadsheets.values.get({
       spreadsheetId: '17oX1WsQa5oSJfoEinkW8ZTIwkPDkF5mQI_s3LevkeLc',
-      range: 'Data!2:75',
+      range: 'Data!2:44',
     }).then(function(response)
     {
       var range = response.result;
