@@ -3,7 +3,7 @@ layout: default
 ---
 <div class="banner main-banner">
 	<div class="banner-cont main-banner-cont">
-	<a href="{{ site.baseurl }}/mcamc"><img src="{{ site.baseurl }}/images/mcamc-logo.svg" class="main-banner-img"></a>
+	<a href="{{ site.baseurl }}/mcamc"><img src="{{ site.baseurl }}/images/mcamc-logo.png" class="main-banner-img"></a>
 	<div class="main-banner-overlay">
 		<h1 class="main-banner-title"><a href="{{ site.baseurl }}/mcamc">Middlesex County Academy Math Competition</a></h1>
 		<p class="main-banner-text">Saturday, April 12th, 2025</p>

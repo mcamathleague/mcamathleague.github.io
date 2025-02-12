@@ -30,11 +30,11 @@ function reg(type)
   document.getElementById("mcamc-registration").style.display = "none";
   if (!choiceMade) {
     if (type === 0) {
-      Cognito.load("forms", { id: "14" });
+      Cognito.load("forms", { id: "15" });
       Cognito.resize();
     }
     if (type === 1) {
-      Cognito.load("forms", { id: "13" });
+      Cognito.load("forms", { id: "16" });
       Cognito.resize();
     }
     choiceMade = true;
