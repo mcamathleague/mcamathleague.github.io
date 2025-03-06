@@ -231,6 +231,10 @@ Please contact [mcamathleague@gmail.com](mailto:mcamathleague@gmail.com) with yo
 
 <div class="sponsor-table">
   <div class="sponsor-row">
+    <div><a href="https://www.hudsonrivertrading.com/"><img src="{{ site.baseurl }}/images/hrt.png" width="500"></a></div>
+    <div><strong>Hudson River Trading</strong><br><a href="https://www.hudsonrivertrading.com/">https://www.hudsonrivertrading.com/</a></div>
+  </div>
+  <div class="sponsor-row">
     <div><a href="https://www.janestreet.com/"><img src="{{ site.baseurl }}/images/janestreet.png" width="500"></a></div>
     <div><strong>Jane Street</strong><br><a href="https://www.janestreet.com/">https://www.janestreet.com/</a></div>
   </div>
