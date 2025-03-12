@@ -37,7 +37,7 @@ MCAMC brings an exciting new type of math competition to the middle school audie
 <table>
   <tr>
     <td>Registration Opens</td>
-    <td>March 14th, 2025</td>
+    <td>March 12th, 2025</td>
   </tr>
   <tr>
     <td>Registration & Payment Due</td>
