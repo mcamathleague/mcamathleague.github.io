@@ -42,4 +42,4 @@ function reg(type)
 }
 </script> 
 
-<h4>If your school is a <b>first-time participant, in a Title 1 district, or requires financial assistance</b> to attend MCAMC 2025, please contact us for discounted registration fees.</h4>
+<h4>If your school is a <b>first-time participant or requires financial assistance</b> to attend MCAMC 2025, please contact us for discounted registration fees.</h4>
