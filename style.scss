@@ -255,6 +255,8 @@ nav {
 // .main
 //
 
+
+
 .posts > .post {
   padding-bottom: 2em;
   border-bottom: 1px solid $lightGray;
@@ -348,6 +350,29 @@ td {
   font-size: 13px;
   padding-top: 5px;
   padding-bottom: 5px;
+}
+
+
+
+html, body {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  display: flex;
+  flex-direction: column;
+}
+
+.wrapper-masthead,
+.wrapper-footer,
+.copyright {
+  flex-shrink: 0;
+}
+
+#main {
+  flex: 1;
 }
 
 // Settled on moving the import of syntax highlighting to the bottom of the CSS
