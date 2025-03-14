@@ -107,7 +107,7 @@ MCAMC brings an exciting new type of math competition to the middle school audie
 
 ## Format and Rules
 
-Form teams of 3-4 middle-school students and compete together! MCAMC is structured into 4 rounds, each round lasting 1 hour.
+Form teams of 4 middle-school students and compete together! MCAMC is structured into 4 rounds, each round lasting 1 hour.
 
 ### Individual Round
 
@@ -165,13 +165,13 @@ Various awards will be given to the top 10 individuals from the Individual Round
 **Can you describe the overall registration process for our team?**
 
 {: .answer}
-A new registration form must be submitted for each team of 3-4 students. The team will be asked to designate a coach or parent who will receive communications from MCAMC and make payments. If you have any other questions, please contact us at [mcamathleague@gmail.com](mailto:mcamathleague@gmail.com).
+A new registration form must be submitted for each team of 4 students. The team will be asked to designate a coach or parent who will receive communications from MCAMC and make payments. If you have any other questions, please contact us at [mcamathleague@gmail.com](mailto:mcamathleague@gmail.com).
 
 {: .question}
 **Can I register as individual without a team?**
 
 {: .answer}
-Yes! If you do not have a team, you can register as an individual. On the day of the competition, you will be randomly placed with a team of other individual students, and you will be able to participate in all rounds just like everyone else. However, students must register as a team if they already have a group of 3-4 students they would like to work with.
+Yes! If you do not have a team, you can register as an individual. On the day of the competition, you will be randomly placed with a team of other individual students, and you will be able to participate in all rounds just like everyone else. However, students must register as a team if they already have a group of 4 students they would like to work with.
 
 {: .question}
 **What are the eligibility requirements to participate in MCAMC?**
@@ -211,8 +211,7 @@ The total amount owed will be displayed before the registration form is submitte
 **How much does MCAMC cost?**
 
 {: .answer}
-MCAMC costs $30 per individual and $90 per team of 3-4 students (regardless of team size).
-
+MCAMC costs $15 per individual and $50 per team of 4 students.
 ### Miscellaneous
 
 {: .question}
