@@ -115,7 +115,7 @@ The Individual Round comes first and is the most traditional of the 3 rounds and
 
 ### Team Round
 
-The Team Round comes second. You will be working within your team of 3-4 students to solve another 30 questions, but there's twist! This time, all 30 questions will be related to one topic in mathematics — a topic that you've probably never seen before. We will provide enough background information and guidance to help you solve these questions, so be prepared to learn something new!
+The Team Round comes second. You will be working within your team of 4 students to solve another 30 questions, but there's twist! This time, all 30 questions will be related to one topic in mathematics — a topic that you've probably never seen before. We will provide enough background information and guidance to help you solve these questions, so be prepared to learn something new!
 
 ### Live Round
 
