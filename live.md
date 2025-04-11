@@ -120,7 +120,7 @@ meta: |
   function listMajors()
   {
     gapi.client.sheets.spreadsheets.values.get({
-      spreadsheetId: '17oX1WsQa5oSJfoEinkW8ZTIwkPDkF5mQI_s3LevkeLc',
+      spreadsheetId: '1OuOhf3g0ew-fBaEvwO5Qgr3sE9E4y_BAI7_xfhBK7X4',
       range: 'Data!2:44',
     }).then(function(response)
     {
