@@ -83,12 +83,12 @@ MCAMC brings an exciting new type of math competition to the middle school audie
     <td>Team Round</td>
   </tr>
   <tr>
-    <td>12:15 PM - 12:45 PM</td>
-    <td>Lunch</td>
+    <td>12:15 PM - 12:30 PM</td>
+    <td>Transition to Cafeteria</td>
   </tr>
   <tr>
-    <td>12:45 PM - 1:00 PM </td>
-    <td>Transition to Cafeteria</td>
+    <td>12:30 PM - 1:00 PM </td>
+    <td>Lunch</td>
   </tr>
   <tr>
     <td>1:00 PM - 2:00 PM</td>
