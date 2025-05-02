@@ -3,6 +3,17 @@ layout: default
 title: Archive
 permalink: /mcamc/archive/
 ---
+
+## MCAMC 2025
+
+[Individual Round](/pdf/2025/Individual_2025.pdf)
+
+[Team Round](/pdf/2025/Team_2025.pdf)
+
+[Live Round](/pdf/2025/Live_2025.pdf)
+
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSM8r0yfUZl8DLE28nbQ6rP5v4AnxoV5f7POm-u0UnBB6XYQ4mQ4rRo4wCTeyaz-Ecfz8O9iFU_yH-o/pubembed?start=false&loop=false&delayms=60000" frameborder="0" width="100%" height="450" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+
 ## MCAMC 2024
 
 [Individual Round](/pdf/2024/Individual_2024.pdf)
